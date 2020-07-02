@@ -4,3 +4,6 @@
 [submodule "EHKtDBHelper"]
 	path = EHKtDBHelper
 	url = https://github.com/HCL-HO/EHKtDBHelper.git
+[submodule "EHKtCommandHelper"]
+	path = EHKtCommandHelper
+	url = https://github.com/HCL-HO/EHKtCommandHelper.git
