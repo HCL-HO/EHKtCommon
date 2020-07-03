@@ -1,9 +1,12 @@
 [submodule "ConfigLoaderKT"]
 	path = ConfigLoaderKT
 	url = https://github.com/HCL-HO/ConfigLoaderKT.git
+	branch = master
 [submodule "EHKtDBHelper"]
 	path = EHKtDBHelper
 	url = https://github.com/HCL-HO/EHKtDBHelper.git
+	branch = master
 [submodule "EHKtCommandHelper"]
 	path = EHKtCommandHelper
 	url = https://github.com/HCL-HO/EHKtCommandHelper.git
+	branch = master
