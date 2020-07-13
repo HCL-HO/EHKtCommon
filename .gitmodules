@@ -1,6 +1,6 @@
-[submodule "ConfigLoaderKT"]
-	path = com/eh/kotlin/configloadekt
-	url = https://github.com/HCL-HO/ConfigLoaderKT.git
+[submodule "configloaderkt"]
+	path = ConfigLoaderKT
+	url = https://github.com/HCL-HO/configloaderkt.git
 	branch = master
 [submodule "EHKtDBHelper"]
 	path = com/eh/kotlin/ehktdbhelper
