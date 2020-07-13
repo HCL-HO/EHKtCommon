@@ -1,4 +1,4 @@
-[submodule "ConfigLoaderKT"]
+[submodule "configloaderkt"]
 	path = ConfigLoaderKT
 	url = https://github.com/HCL-HO/ConfigLoaderKT.git
 	branch = master
